@@ -1,4 +1,4 @@
-# SeasonPointsCompare.py
+#This file gives you stat graph of multiple driver's points comparison in line progression per race across the whole season.
 
 import pandas as pd
 import numpy as np
