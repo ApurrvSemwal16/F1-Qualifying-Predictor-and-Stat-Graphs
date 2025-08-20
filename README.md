@@ -71,7 +71,7 @@ Example Usage of predict_qualifying.py:
     Enter season year (e.g., 2025): 2025
     How many to show? (5 / 10 / all): 10
 
-  Output:
+  Output->
         📍 Predicted Qualifying for Circuit ID 21  — Year 2025
         1. Verstappen (Red Bull) — Position: 1.67
         2. Norris (McLaren) — Position: 2.79
@@ -137,7 +137,7 @@ Example Usage of predict_qualifying.py:
 
 NOTE: If any error is found or any bug is found in the codes, kindly update them to my email given below, any help in fixing and making this better will be highly appreciated and credited.
 
-Thank You
+Thank You.
 -Apurrv Semwal
 -2024365054.apurrv@ug.sharda.ac.in
 -Sharda University (CS-A)
