@@ -1,3 +1,5 @@
+#This file gives Lap time comparison of multiple drivers across Q1, Q2, Q3 session on one track for a particular year.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
