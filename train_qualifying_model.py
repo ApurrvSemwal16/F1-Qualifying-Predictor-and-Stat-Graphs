@@ -1,4 +1,28 @@
-# train_qualifying_model.py
+# Don't run this code unless you are manually updating the dataset!!!
+# It will mess up with the valid_pairs.csv i.e 2025 grid
+# Just incase you still run this, put this is in the valid_pairs.csv:
+  #driver_name,constructor_name
+  #Verstappen,Red Bull
+  #Tsunoda,Red Bull
+  #Hamilton,Ferrari
+  #Leclerc,Ferrari
+  #Russell,Mercedes
+  #Norris,McLaren
+  #Antonelli,Mercedes
+  #Piastri,McLaren
+  #Alonso,Aston Martin
+  #Stroll,Aston Martin
+  #Bortoleto,Sauber
+  #Ocon,Haas F1 Team
+  #Hadjar,RB F1 Team
+  #Albon,Williams
+  #Bearman,Haas F1 Team
+  #Colapinto,Alpine F1 Team
+  #Gasly,Alpine F1 Team
+  #Hülkenberg,Sauber
+  #Sainz,Williams
+  #Lawson,RB F1 Team
+
 
 import pandas as pd
 import joblib
