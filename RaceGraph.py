@@ -1,4 +1,4 @@
-# RaceGraph.py
+# This file gives you stat graph of multiple driver's starting position to finishing position in a particular race.
 
 import pandas as pd
 import matplotlib.pyplot as plt
