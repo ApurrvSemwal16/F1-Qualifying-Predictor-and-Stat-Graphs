@@ -1,4 +1,4 @@
-# predict_qualifying.py
+#This is the main file to predict qualifying, just run it.
 
 import joblib
 import pandas as pd
