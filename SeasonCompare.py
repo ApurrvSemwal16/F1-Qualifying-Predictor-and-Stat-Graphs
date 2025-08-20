@@ -1,3 +1,5 @@
+#This file gives you stat graph of multiple driver's race result comparison across the whole season.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
