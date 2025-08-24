@@ -12,7 +12,7 @@ It combines the official F1 dataset (ERGAST + extended 2025 data) with a Random 
         RandomForestRegressor (predict qualifying positions)
         LabelEncoder for drivers, constructors, circuits
     Joblib → Save/load trained models
-    Datasets → ERGAST + manually updated 2025 results
+    Datasets → ERGAST
 
 📖 Workflow & Files:
 
@@ -29,8 +29,6 @@ It combines the official F1 dataset (ERGAST + extended 2025 data) with a Random 
       constructors.csv → Constructor details.
 
       circuits.csv → Circuit details.
-
-    ✅ Extended to include 2025 results up to Spa, plus new drivers (Antonelli, Bortoleto, Hadjar).
 
   2️⃣ Machine Learning Model (model/):
 
